@@ -9,3 +9,13 @@ The study information extracted includes
   (iv) intervention details; and 
 	(v) outcome data (e.g. effect sizes of intervention and control). 
 Our primary outcome of interest was yield production measured in kilogram per hectare (kg/ha).
+
+Inclusion criteria
+To help ensure consistency in our analysis, we defined a set of criteria to screen out irrelevant studies.
+Thus we only included studies that 
+        (i) were randomized controlled trials 
+        (ii) were paired i.e., compared an active intervention with a control 
+        (iii) had no missing data e.g. SD, sample size (n), effect sizes, etc. 
+        (iv) used interventions not applied as a second-line treatment. 
+After applying our selection criteria, we extracted data from 3 meta-analytical studies of interest.
+These studies comprising of 3733 yield data met all inclusion criteria and were then used for the network meta-analysis.
