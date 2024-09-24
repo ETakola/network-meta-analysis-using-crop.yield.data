@@ -1,1 +1,11 @@
-
+we searched the database used in Takola et al. (unpublished) to identify published trials of interventions applied in the production of various crop yields. 
+We compiled a dataset of meta-analytical studies that investigated the response of yield production against an agricultural intervention. 
+These strategies – ranging from; straw return, liming, super absorbent polymers, alternative fertilization options, substitution of mineral fertilizers with manure nitrogen, removal of topsoil, etc. are among some of the most common agricultural management strategies for balancing yield increase.
+Our initial dataset (from Takola et al., unpublished) consisted of 11 meta-analytical studies, with 13 interventions and 8814 yield data. 
+The study information extracted includes 
+  (i) study identifiers (e.g. title, abstract, authors, publication year); 
+  (ii) study characteristics (e.g. trial design, study location); 
+  (iii) participant characteristics (e.g. sample size, standard deviation); 
+  (iv) intervention details; and 
+	(v) outcome data (e.g. effect sizes of intervention and control). 
+Our primary outcome of interest was yield production measured in kilogram per hectare (kg/ha).
