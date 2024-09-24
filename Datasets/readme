@@ -5,7 +5,7 @@ Our initial dataset (from Takola et al., unpublished) consisted of 11 meta-analy
 The study information extracted includes 
   (i) study identifiers (e.g. title, abstract, authors, publication year); 
   (ii) study characteristics (e.g. trial design, study location); 
-  (iii) participant characteristics (e.g. sample size, standard deviation); 
+  (iii) participant characteristics (e.g. sample size, standard deviation);
   (iv) intervention details; and 
 	(v) outcome data (e.g. effect sizes of intervention and control). 
 Our primary outcome of interest was yield production measured in kilogram per hectare (kg/ha).
