@@ -1,1 +1,2 @@
-we conducted a network meta-analysis in R (version 4.3.2) using the netmeta package from Balduzzi et al. (2023).
+R scripts for a network meta-analysis of interventions to improve crop yield.
+Conducted in R (version 4.3.2) using the netmeta package from Balduzzi et al. (2023).
