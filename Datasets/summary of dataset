@@ -1,0 +1,26 @@
+# Crop yield dataset
+# source: Elina et al (unpublished)
+# Author: Maximus Anochirim
+
+Dataset summary
+File format: Microsoft Excel (.xlsx)
+Dimensions: 3733 x 15
+Rows: 3733 studies
+Columns: 15 variables
+
+Brief description for 
+  Row 1: DatasetID - A character string containing the identification for each of the three meta-analytical studies that our data was retrieved from
+  Row 2: Country - A character string for the country in which each independent study was conducted
+  Row 3: Study No
+  Row 4: Source - A character string with sources of each independent study
+  Row 5: pr_yield_control_kgha - effect sizes for control
+  Row 6: control_SD - standard deviation of the effect sizes
+  Row 7: n_control - number of samples
+  Row 8: pr_yield_treatm_kgha - effect sizes for treatment/intervention
+  Row 9: treatment_SD - standard deviation of the effect sizes
+  Row 10: n_treatment - number of samples
+  Row 11: pr_Treatment - name of intervention
+  Row 12: pr_control - control group (no intervention)
+  Row 13: pr_Croptype - the type of crop from which yield production values were assessed
+  Row 14: pr_Longitude - GPS coordinates of the location in which the study was conducted
+  Row 15: pr_Latitude - GPS coordinates of the location in which the study was conducted
